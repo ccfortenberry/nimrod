@@ -1,0 +1,10 @@
+{"compile":[
+["C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\result.c", "gcc.exe -c  -w -mno-ms-bitfields  -IC:\\nim-0.18.0_x64\\nim-0.18.0\\lib -o \"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\result.o\" \"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\result.c\""],
+["C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\stdlib_system.c", "gcc.exe -c  -w -mno-ms-bitfields  -IC:\\nim-0.18.0_x64\\nim-0.18.0\\lib -o \"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\stdlib_system.o\" \"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\stdlib_system.c\""]
+],
+"link":[
+"\"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\result.o\"",
+"\"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\stdlib_system.o\""
+],
+"linkcmd": "gcc.exe   -o \"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\result.exe\"  \"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\result.o\" \"C:\\Users\\Curtis Fortenberry\\Documents\\nimrod\\ex\\variables\\result\\nimcache\\stdlib_system.o\"    "
+}
