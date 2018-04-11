@@ -26,3 +26,19 @@ while true:
     else:
         echo "Correct!"
         break
+
+
+# Another thing to note is the 'block' statement. It can be used to
+# make a label to break out of nested loops.
+echo "\nI am now in a busy loop that will go on forever!"
+proc busyLoop(): int = 
+    result = 0
+    block outOfLoop:
+        while true:
+            result += 1
+            while true:
+                result += 1
+                break outOfLoop
+
+echo "I have escaped with result: "
+echo busyLoop()
