@@ -1,0 +1,7 @@
+#ignore nimcache
+nimcache/
+
+#ignore executables
+*.exe
+*.out
+*.app
