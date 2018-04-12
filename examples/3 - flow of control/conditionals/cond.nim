@@ -2,7 +2,7 @@
 # Corey Gray
 
 # cond.nim
-# Last rev.: 10 Apr 2018
+# Last rev.: 11 Apr 2018
 # Demo of conditionals in Nimrod
 
 
