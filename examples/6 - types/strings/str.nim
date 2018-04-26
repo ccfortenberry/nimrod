@@ -1,7 +1,7 @@
 # Curtis Fortenberry
 # Corey Gray
 
-# distinct.nim
+# str.nim
 # Last rev.: 25 Apr 2018
 # Brief demo of strings in Nimrod
 
